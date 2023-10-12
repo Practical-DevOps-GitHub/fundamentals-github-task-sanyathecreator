@@ -1,2 +1,2 @@
-# These owners will be the default owners for everything in
-*  @softservedata
+# Assign "softservedata" as the code owner for all files in the main branch
+/main/* @softservedata
