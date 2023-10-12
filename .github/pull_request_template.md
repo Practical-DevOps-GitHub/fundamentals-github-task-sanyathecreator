@@ -1,6 +1,6 @@
 # Describe your changes
 
-Please provide a brief description of the changes you've made.
+Please provide a brief description of the changes you've made. 
 
 # Issue ticket number and link
 
